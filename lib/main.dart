@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 import 'package:search_image_app/pages/home_page/home_page.dart';
 import 'package:search_image_app/provider/theme_provider.dart';
 
-// In this app , night mode can't store with shp ,later i will solve this error
+//git In this app , night mode can't store with shp ,later i will solve this error
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await EasyLocalization.ensureInitialized();
